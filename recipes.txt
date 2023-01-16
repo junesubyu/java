@@ -1,0 +1,2 @@
+https://api.edamam.com/search?q=chicken&app_id=fd48d07d&app_key=
+a0f21ff5a65acb49473c5828ff5e07b5&from=0&to=3&calories=591-722&health=alcohol-free
